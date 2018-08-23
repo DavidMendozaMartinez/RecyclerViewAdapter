@@ -6,7 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.widget.Toast;
 
-import com.davidmendozamartinez.recyclerviewadapter.RecyclerViewAdapter;
+import com.github.DavidMendozaMartinez.RecyclerViewAdapter.RecyclerViewAdapter;
 
 import java.util.ArrayList;
 

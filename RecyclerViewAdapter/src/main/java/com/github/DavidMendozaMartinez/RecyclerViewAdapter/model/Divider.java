@@ -1,4 +1,4 @@
-package com.davidmendozamartinez.recyclerviewadapter.model;
+package com.github.DavidMendozaMartinez.RecyclerViewAdapter.model;
 
 import android.graphics.Color;
 

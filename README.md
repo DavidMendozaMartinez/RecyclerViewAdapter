@@ -1,6 +1,6 @@
 # RecyclerViewAdapter
 
-[ ![Download](https://api.bintray.com/packages/davidmendozamartinez/maven/RecyclerViewAdapter/images/download.svg?version=1.0.0)](https://bintray.com/davidmendozamartinez/maven/RecyclerViewAdapter/1.0.0/link)
+[ ![Download](https://api.bintray.com/packages/davidmendozamartinez/maven/RecyclerViewAdapter/images/download.svg) ](https://bintray.com/davidmendozamartinez/maven/RecyclerViewAdapter/_latestVersion)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
 RecyclerViewAdapter is an Android library that facilitates the use and configuration of RecyclerView. It also adds some basic functionality that does not include the default component which its predecessor `ListView` did.
@@ -38,7 +38,7 @@ Add the following dependency to your **build.gradle** file in the **app module**
 
         ....
 
-        implementation 'com.github.DavidMendozaMartinez:RecyclerViewAdapter:1.0.0'
+        implementation 'com.github.DavidMendozaMartinez:RecyclerViewAdapter:1.0.1'
     }
 ~~~
 

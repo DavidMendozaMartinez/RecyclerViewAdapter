@@ -1,4 +1,4 @@
-package com.davidmendozamartinez.recyclerviewadapter;
+package com.github.DavidMendozaMartinez.RecyclerViewAdapter;
 
 import android.databinding.DataBindingUtil;
 import android.databinding.ViewDataBinding;
@@ -9,8 +9,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.davidmendozamartinez.recyclerviewadapter.databinding.ItemBinding;
-import com.davidmendozamartinez.recyclerviewadapter.model.Divider;
+import com.github.DavidMendozaMartinez.RecyclerViewAdapter.databinding.ItemBinding;
+import com.github.DavidMendozaMartinez.RecyclerViewAdapter.model.Divider;
 
 import java.util.ArrayList;
 
